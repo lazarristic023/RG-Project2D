@@ -1,0 +1,4 @@
+D:\RG Projekat1\Teksture\x64\Debug\glew32.dll
+D:\RG Projekat1\Teksture\x64\Debug\Sablon.exe
+D:\RG Projekat1\Projekat2D\x64\Debug\glew32.dll
+D:\RG Projekat1\Projekat2D\x64\Debug\Sablon.exe
