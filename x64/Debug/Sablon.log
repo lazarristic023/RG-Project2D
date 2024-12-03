@@ -5,12 +5,12 @@ D:\RG Projekat1\Projekat2D\main.cpp(254,5): warning C4305: 'initializing': trunc
 D:\RG Projekat1\Projekat2D\main.cpp(319,5): warning C4305: 'initializing': truncation from 'double' to 'float'
 D:\RG Projekat1\Projekat2D\main.cpp(369,5): warning C4305: 'initializing': truncation from 'double' to 'float'
 D:\RG Projekat1\Projekat2D\main.cpp(413,5): warning C4305: 'initializing': truncation from 'double' to 'float'
-D:\RG Projekat1\Projekat2D\main.cpp(710,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\RG Projekat1\Projekat2D\main.cpp(742,105): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\RG Projekat1\Projekat2D\main.cpp(742,75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\RG Projekat1\Projekat2D\main.cpp(761,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\RG Projekat1\Projekat2D\main.cpp(812,58): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-D:\RG Projekat1\Projekat2D\main.cpp(813,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-D:\RG Projekat1\Projekat2D\main.cpp(814,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
-D:\RG Projekat1\Projekat2D\main.cpp(815,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\RG Projekat1\Projekat2D\main.cpp(720,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\RG Projekat1\Projekat2D\main.cpp(752,105): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\RG Projekat1\Projekat2D\main.cpp(752,75): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\RG Projekat1\Projekat2D\main.cpp(771,79): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\RG Projekat1\Projekat2D\main.cpp(822,58): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\RG Projekat1\Projekat2D\main.cpp(823,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\RG Projekat1\Projekat2D\main.cpp(824,49): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\RG Projekat1\Projekat2D\main.cpp(825,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
   Sablon.vcxproj -> D:\RG Projekat1\Projekat2D\x64\Debug\Sablon.exe

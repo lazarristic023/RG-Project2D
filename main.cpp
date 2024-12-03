@@ -641,6 +641,16 @@ int main(void)
                 indicesCount = sizeof(handlesIndices) / sizeof(handlesIndices[0]);
                 glDrawElements(GL_TRIANGLES, indicesCount, GL_UNSIGNED_INT, 0);
 
+                glViewport(300, 450, 450, 450);
+
+                glLineWidth(5);
+                glBindVertexArray(logoLinesVAO);
+                glDrawArrays(GL_LINES, 0, sizeof(logoVertices) / fridgeStride);
+                glLineWidth(1);
+
+                glViewport(0, 0, wWidth, wHeight);
+
+
                 textRenderer.RenderText("OFF", 545.0f, 355.0f, 0.4f, glm::vec3(0.0f, 0.0f, 0.0f));
             }
             else {
